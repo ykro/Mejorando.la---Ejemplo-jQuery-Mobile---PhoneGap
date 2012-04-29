@@ -1,0 +1,540 @@
+TLectorMejorandola
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist LectorMejorandola/LectorMejorandola-Info.plist
+cProcessPCH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth LectorMejorandola/LectorMejorandola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola normal i386
+cGenerateDSYMFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+cCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/Localizable.strings LectorMejorandola/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj/Localizable.strings LectorMejorandola/Resources/es.lproj/Localizable.strings
+cCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/InfoPlist.strings LectorMejorandola/en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj/Localizable.strings LectorMejorandola/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj/Localizable.strings LectorMejorandola/Resources/se.lproj/Localizable.strings
+cCpResource LectorMejorandola/Resources/icons/icon.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png
+cCpResource LectorMejorandola/Resources/icons/icon@2x.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png
+cCpResource LectorMejorandola/Resources/icons/icon-72.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png
+cCpResource LectorMejorandola/Resources/splash/Default.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png
+cCpResource LectorMejorandola/Resources/splash/Default@2x.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png
+cCpResource LectorMejorandola/Resources/Capture.bundle DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle
+cCompileXIB /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib
+cCopyPlistFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Cordova.plist LectorMejorandola/Cordova.plist
+cCpResource LectorMejorandola/verify.sh DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh
+cGenerateDSYMFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+cPhaseScriptExecution "Run Script" /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh
+cTouch /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EC2D2B60000000000000110
+t1321390774
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004E7806CF000000000018D430
+t1316488911
+s1627184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004E78054400000000000954B0
+t1316488516
+s611504
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004E7807950000000000169840
+t1316489109
+s1480768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E72F1F200000000002F4210
+t1316155890
+s3097104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004E78059F00000000000859A0
+t1316488607
+s547232
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004E780641000000000006B1C0
+t1316488769
+s438720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004E7808D3000000000023A3F0
+t1316489427
+s2335728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004E72F3C800000000000998C0
+t1316156360
+s628928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F69C00000000001A9D20
+t1316157084
+s1744160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004E72F177000000000006C8A0
+t1316155767
+s444576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/Shared/Cordova/Frameworks/Cordova.framework/Cordova
+c000000004F61178B000000000019801F
+t1331763083
+s1671199
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/LectorMejorandola.LinkFileList
+c000000004F99CF960000000000000243
+t1335480214
+s579
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh
+c000000004F99CF960000000000000077
+t1335480214
+s119
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Cordova.plist
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/MainViewController.nib
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/PkgInfo
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh
+t2
+s0
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m
+c000000004F99CF8C00000000000019ED
+t1335480204
+s6637
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m
+c000000004F99CF8C000000000000079C
+t1335480204
+s1948
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib
+c000000004F99CF8C000000000000143A
+t1335480204
+s5178
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Cordova.plist
+c000000004F99CF8C0000000000000669
+t1335480204
+s1641
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/LectorMejorandola-Prefix.pch
+c000000004F99CF8C00000000000000A5
+t1335480204
+s165
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/Capture.bundle
+c000000004F99CF8C0000000000000242
+t1335480204
+s578
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/de.lproj/Localizable.strings
+c000000004F99CF8C0000000000000485
+t1335480204
+s1157
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/en.lproj/Localizable.strings
+c000000004F99CF8C0000000000000470
+t1335480204
+s1136
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/es.lproj/Localizable.strings
+c000000004F99CF8C000000000000047D
+t1335480204
+s1149
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon-72.png
+c000000004F55255D0000000000001350
+t1330980189
+s4944
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon.png
+c000000004F55255D0000000000000F3E
+t1330980189
+s3902
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon@2x.png
+c000000004F55255D0000000000001EBD
+t1330980189
+s7869
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/se.lproj/Localizable.strings
+c000000004F99CF8C0000000000000471
+t1335480204
+s1137
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/splash/Default.png
+c000000004F55255D0000000000002541
+t1330980189
+s9537
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/splash/Default@2x.png
+c000000004F55255D000000000000560D
+t1330980189
+s22029
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/en.lproj/InfoPlist.strings
+c000000004F99CF8C000000000000002D
+t1335480204
+s45
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m
+c000000004F99CF8C0000000000000486
+t1335480204
+s1158
+
+N/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/verify.sh
+c000000004F99CF8C00000000000002B9
+t1335480204
+s697
+
+NLectorMejorandola/LectorMejorandola-Info.plist
+c000000004F99CF8C00000000000005CF
+t1335480204
+s1487
+
+CBuild AST from /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m
+r0
+
+CBuild AST from /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa94ec316074ab541^10e8d416074ab541^---0#1#0#--18"Check dependencies36"2629A022-7014-4D29-B4C3-25921A546367-
+
+CCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357173015.331784
+e357173015.426534
+r1
+xCompileC
+xDerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o
+x/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.mdf155517074ab541^a9316d17074ab541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m0000000000000000^2883"CompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o LectorMejorandola/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ykro/code/iOS/LectorMejorandola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1, -DCORDOVA_FRAMEWORK=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/LectorMejorandola.hmap -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/include -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources/i386 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources -F/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/Shared/Cordova/Frameworks -include /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch -MMD -MT dependencies -MF /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.d -c /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/AppDelegate.m -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/AppDelegate.o36"39E5F92A-428D-4F2B-B52A-0744D3B27E75-
+
+CCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357173015.332570
+e357173015.398187
+r1
+xCompileC
+xDerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o
+x/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.mf2435517074ab541^76fe6517074ab541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m0000000000000000^2918"CompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o LectorMejorandola/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ykro/code/iOS/LectorMejorandola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1, -DCORDOVA_FRAMEWORK=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/LectorMejorandola.hmap -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/include -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources/i386 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources -F/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/Shared/Cordova/Frameworks -include /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch -MMD -MT dependencies -MF /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.d -c /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.m -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/MainViewController.o36"34860201-1534-417A-8009-C332190AAED5-
+
+CCompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357173015.331773
+e357173015.362413
+r1
+xCompileC
+xDerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o
+x/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m99125517074ab541^2ac75c17074ab541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m0000000000000000^2832"CompileC DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o LectorMejorandola/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ykro/code/iOS/LectorMejorandola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1, -DCORDOVA_FRAMEWORK=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/LectorMejorandola.hmap -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/include -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources/i386 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources -F/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/Shared/Cordova/Frameworks -include /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch -MMD -MT dependencies -MF /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.d -c /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/main.m -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/main.o36"CBA49513-5933-4754-ABEB-15C36C23D72F-
+
+CCompileXIB /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib
+s357173015.617417
+e357173015.656931
+r1
+xCompileXIB
+x/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib4e0da017074ab541^b22ca817074ab541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib0000000000000000^841"CompileXIB LectorMejorandola/Classes/MainViewController.xib    cd /Users/ykro/code/iOS/LectorMejorandola    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/MainViewController.nib /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Classes/MainViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"FA28BEDA-9ACF-4FB9-B7C1-A6C9445ACBE2-
+
+CCopyPlistFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Cordova.plist LectorMejorandola/Cordova.plist
+s357173015.627323
+e357173015.632167
+r1
+xCopyPlistFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Cordova.plist
+xLectorMejorandola/Cordova.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy LectorMejorandola/Cordova.plist73bea017074ab541^c3d5a117074ab541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Cordova.plist0000000000000000^600"CopyPlistFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Cordova.plist LectorMejorandola/Cordova.plist    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyPlist --convert binary1 --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app -- LectorMejorandola/Cordova.plist36"3C6F9AE3-7785-4F1B-961E-E1B52292109A-
+
+CCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj/Localizable.strings LectorMejorandola/Resources/de.lproj/Localizable.strings
+s357173015.596215
+e357173015.602877
+r1
+xCopyStringsFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj/Localizable.strings
+xLectorMejorandola/Resources/de.lproj/Localizable.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy LectorMejorandola/Resources/de.lproj/Localizable.strings96b29817074ab541^bd569a17074ab541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/de.lproj/Localizable.strings0000000000000000^717"CopyStringsFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj/Localizable.strings LectorMejorandola/Resources/de.lproj/Localizable.strings    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/de.lproj -- LectorMejorandola/Resources/de.lproj/Localizable.strings36"E04C6193-35A2-4268-BABD-9850593270DC-
+
+CCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/InfoPlist.strings LectorMejorandola/en.lproj/InfoPlist.strings
+s357173015.595682
+e357173015.599426
+r1
+xCopyStringsFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/InfoPlist.strings
+xLectorMejorandola/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy LectorMejorandola/en.lproj/InfoPlist.strings309f9817074ab541^4a799917074ab541^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/en.lproj/InfoPlist.strings0000000000000000^691"CopyStringsFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/InfoPlist.strings LectorMejorandola/en.lproj/InfoPlist.strings    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj -- LectorMejorandola/en.lproj/InfoPlist.strings36"C14FBEA1-EB7C-4B3C-ADC1-6AF0ED94C608-
+
+CCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/Localizable.strings LectorMejorandola/Resources/en.lproj/Localizable.strings
+s357173015.595663
+e357173015.600519
+r1
+xCopyStringsFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/Localizable.strings
+xLectorMejorandola/Resources/en.lproj/Localizable.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy LectorMejorandola/Resources/en.lproj/Localizable.stringse09d9817074ab541^12bc9917074ab541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/en.lproj/Localizable.strings0000000000000000^717"CopyStringsFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj/Localizable.strings LectorMejorandola/Resources/en.lproj/Localizable.strings    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/en.lproj -- LectorMejorandola/Resources/en.lproj/Localizable.strings36"4F9C73A0-02B6-4886-ACAC-4D6A80504E9B-
+
+CCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj/Localizable.strings LectorMejorandola/Resources/es.lproj/Localizable.strings
+s357173015.595674
+e357173015.601530
+r1
+xCopyStringsFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj/Localizable.strings
+xLectorMejorandola/Resources/es.lproj/Localizable.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy LectorMejorandola/Resources/es.lproj/Localizable.strings90a49817074ab541^97029a17074ab541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/es.lproj/Localizable.strings0000000000000000^717"CopyStringsFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj/Localizable.strings LectorMejorandola/Resources/es.lproj/Localizable.strings    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/es.lproj -- LectorMejorandola/Resources/es.lproj/Localizable.strings36"92C03E01-2D91-46F3-9D9C-6B13AA592500-
+
+CCopyStringsFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj/Localizable.strings LectorMejorandola/Resources/se.lproj/Localizable.strings
+s357173015.600637
+e357173015.603793
+r1
+xCopyStringsFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj/Localizable.strings
+xLectorMejorandola/Resources/se.lproj/Localizable.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy LectorMejorandola/Resources/se.lproj/Localizable.strings51dc9917074ab541^e6929a17074ab541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/se.lproj/Localizable.strings0000000000000000^717"CopyStringsFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj/Localizable.strings LectorMejorandola/Resources/se.lproj/Localizable.strings    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/se.lproj -- LectorMejorandola/Resources/se.lproj/Localizable.strings36"9347588D-8E67-4C30-AE8C-F5B6CA1975A2-
+
+CCpResource LectorMejorandola/Resources/Capture.bundle DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle
+s357173015.617390
+e357173015.674828
+r1
+xCpResource
+xLectorMejorandola/Resources/Capture.bundle
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle52d5a017074ab541^e4d6ac17074ab541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle00f4fcc4dcffdf42^719"CpResource LectorMejorandola/Resources/Capture.bundle DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Capture.bundle    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/Capture.bundle /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"01C043D7-E141-4361-ACE0-33872FE77257-
+
+CCpResource LectorMejorandola/Resources/icons/icon-72.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png
+s357173015.604052
+e357173015.616813
+r1
+xCpResource
+xLectorMejorandola/Resources/icons/icon-72.png
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.pngaab79a17074ab541^cbf29d17074ab541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png00f4fcc4dcffdf42^722"CpResource LectorMejorandola/Resources/icons/icon-72.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon-72.png    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon-72.png /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"E1B891A1-E4FD-47D1-8CA5-A9D663C15BE5-
+
+CCpResource LectorMejorandola/Resources/icons/icon.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png
+s357173015.601710
+e357173015.604897
+r1
+xCpResource
+xLectorMejorandola/Resources/icons/icon.png
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png3a239a17074ab541^97e29a17074ab541^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png00f4fcc4dcffdf42^713"CpResource LectorMejorandola/Resources/icons/icon.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon.png    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon.png /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"A6C218C2-ED5A-4086-98EA-BBD349966365-
+
+CCpResource LectorMejorandola/Resources/icons/icon@2x.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png
+s357173015.601815
+e357173015.613144
+r1
+xCpResource
+xLectorMejorandola/Resources/icons/icon@2x.png
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.pngbb289a17074ab541^3d9b9d17074ab541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png00f4fcc4dcffdf42^728"CpResource "LectorMejorandola/Resources/icons/icon@2x.png" "DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/icon@2x.png"    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/icons/icon@2x.png" /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"FAA82D68-F61E-4999-99D9-160A166F95D2-
+
+CCpResource LectorMejorandola/Resources/splash/Default.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png
+s357173015.604059
+e357173015.617086
+r1
+xCpResource
+xLectorMejorandola/Resources/splash/Default.png
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png1dc89a17074ab541^79019e17074ab541^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png00f4fcc4dcffdf42^724"CpResource LectorMejorandola/Resources/splash/Default.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default.png    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/splash/Default.png /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"C29AAABC-969F-4C81-B446-D376EEF9A4E2-
+
+CCpResource LectorMejorandola/Resources/splash/Default@2x.png DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png
+s357173015.611287
+e357173015.628532
+r1
+xCpResource
+xLectorMejorandola/Resources/splash/Default@2x.png
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png5b959c17074ab541^06f2a017074ab541^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png00f4fcc4dcffdf42^739"CpResource "LectorMejorandola/Resources/splash/Default@2x.png" "DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Default@2x.png"    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/Resources/splash/Default@2x.png" /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"085117E6-62CC-4520-B98C-B74A654DC084-
+
+CCpResource LectorMejorandola/verify.sh DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh
+s357173015.629787
+e357173015.633800
+r1
+xCpResource
+xLectorMejorandola/verify.sh
+xDerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.shf964a117074ab541^c840a217074ab541^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh00f4fcc4dcffdf42^684"CpResource LectorMejorandola/verify.sh DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/verify.sh    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/verify.sh /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"11F05BC4-6543-4C76-83AB-93C1BC4664B3-
+
+CGenerateDSYMFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+s357173015.682847
+e357173015.707033
+r1
+xGenerateDSYMFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Generating /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYMfbe6ae17074ab541^ab06b517074ab541^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM/0000000000000000^771"GenerateDSYMFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app.dSYM36"B5135AF1-5B0C-4005-A3D3-6179E3E2942B-
+
+CLd /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola normal i386
+s357173015.433330
+e357173015.560673
+r1
+xLd
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Link /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola75056f17074ab541^87888f17074ab541^---0#0#0#--1782"Ld DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola normal i386    cd /Users/ykro/code/iOS/LectorMejorandola    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/Shared/Cordova/Frameworks -filelist /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/LectorMejorandola.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -framework CoreMedia -framework Cordova -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/LectorMejorandola36"D76036AC-E321-460D-B204-982717739057-
+
+CPhaseScriptExecution "Run Script" /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh
+s357173015.714614
+e357173015.753900
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh
+owarning: Missing - Add /Users/ykro/code/iOS/LectorMejorandola/www as a folder reference in your project. Just drag and drop the folder into your project, into the Project Navigator of Xcode 4. Make sure you select the second radio-button: 'Create folder references for any added folders' (which will create a blue folder)
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'4110b817074ab541^5000c117074ab541^-322"warning: Missing - Add /Users/ykro/code/iOS/LectorMejorandola/www as a folder reference in your project. Just drag and drop the folder into your project, into the Project Navigator of Xcode 4. Make sure you select the second radio-button: 'Create folder references for any added folders' (which will create a blue folder)1(21%IDEActivityLogMessage2@312"Missing - Add /Users/ykro/code/iOS/LectorMejorandola/www as a folder reference in your project. Just drag and drop the folder into your project, into the Project Navigator of Xcode 4. Make sure you select the second radio-button: 'Create folder references for any added folders' (which will create a blue folder)278"Missing - Add /Users/ykro/code/iOS/LectorMejorandola/www as a folder reference in your project. Just drag and drop the folder into your project, into the Project Navigator of Xcode 4. Make sure you select the second radio-button: 'Create folder references for any added folders'357173015#0#322#-1#--31"Shell Script Invocation Warning--0#0#0#--20550"PhaseScriptExecution "Run Script" DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh    cd /Users/ykro/code/iOS/LectorMejorandola    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER ykro    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products    setenv BUILD_ROOT /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/38/3f81p6254s3gp58cwvb5fx8m0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/38/3f81p6254s3gp58cwvb5fx8m0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/38/3f81p6254s3gp58cwvb5fx8m0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH LectorMejorandola.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/ykro/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH LectorMejorandola.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/LectorMejorandola.dst    setenv DWARF_DSYM_FILE_NAME LectorMejorandola.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH LectorMejorandola.app/Executables    setenv EXECUTABLE_FOLDER_PATH LectorMejorandola.app    setenv EXECUTABLE_NAME LectorMejorandola    setenv EXECUTABLE_PATH LectorMejorandola.app/LectorMejorandola    setenv FILE_LIST /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH LectorMejorandola.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator\" /Users/Shared/Cordova/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME LectorMejorandola.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER LectorMejorandola/LectorMejorandola-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS "DEBUG=1, CORDOVA_FRAMEWORK=1"    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE LectorMejorandola/LectorMejorandola-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH LectorMejorandola.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH LectorMejorandola.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/LectorMejorandola.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER ykro    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/LectorMejorandola.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH LectorMejorandola.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/LectorMejorandola-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal/i386/LectorMejorandola.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH LectorMejorandola.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50b    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Objects-normal    setenv OBJROOT /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak_library /usr/lib/libSystem.B.dylib"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH LectorMejorandola.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/PkgInfo    setenv PKGINFO_PATH LectorMejorandola.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 9A334    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 50000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH LectorMejorandola.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH LectorMejorandola.app/PrivateHeaders    setenv PRODUCT_NAME LectorMejorandola    setenv PRODUCT_SETTINGS_PATH /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/LectorMejorandola-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT LectorMejorandola    setenv PROJECT_DERIVED_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/DerivedSources    setenv PROJECT_DIR /Users/ykro/code/iOS/LectorMejorandola    setenv PROJECT_FILE_PATH /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola.xcodeproj    setenv PROJECT_NAME LectorMejorandola    setenv PROJECT_TEMP_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build    setenv PUBLIC_HEADERS_FOLDER_PATH LectorMejorandola.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH LectorMejorandola.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk    setenv SDK_NAME iphonesimulator5.0    setenv SDK_PRODUCT_BUILD_VERSION 9A334    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH LectorMejorandola.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH LectorMejorandola.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/ykro/code/iOS/LectorMejorandola    setenv SRCROOT /Users/ykro/code/iOS/LectorMejorandola    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME LectorMejorandola    setenv TARGET_BUILD_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME LectorMejorandola    setenv TARGET_TEMP_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build    setenv TEMP_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build    setenv TEMP_FILES_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build    setenv TEMP_FILE_DIR /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build    setenv TEMP_ROOT /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH LectorMejorandola.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER ykro    setenv USER_APPS_DIR /Users/ykro/Applications    setenv USER_LIBRARY_DIR /Users/ykro/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH LectorMejorandola.app/version.plist    setenv VERSION_INFO_BUILDER ykro    setenv VERSION_INFO_FILE LectorMejorandola_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:LectorMejorandola  PROJECT:LectorMejorandola-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME LectorMejorandola.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4D199    setenv XCODE_VERSION_ACTUAL 0420    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0420    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/Script-1A625DF3154A070B00F5ADC4.sh36"E45394B7-11D3-47AF-BBFB-27FF8D0678EE-
+
+CProcessInfoPlistFile /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist LectorMejorandola/LectorMejorandola-Info.plist
+s357173014.841891
+e357173014.845905
+r1
+xProcessInfoPlistFile
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist
+xLectorMejorandola/LectorMejorandola-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process LectorMejorandola/LectorMejorandola-Info.plist61a8d716074ab541^c499e716074ab541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/LectorMejorandola-Info.plist0000000000000000^835"ProcessInfoPlistFile DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist LectorMejorandola/LectorMejorandola-Info.plist    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility LectorMejorandola/LectorMejorandola-Info.plist -genpkginfo /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app/Info.plist36"8A1DE573-70FD-4306-B1D4-A5538686C839-
+
+CProcessPCH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth LectorMejorandola/LectorMejorandola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357173014.854090
+e357173015.324214
+r1
+xProcessPCH
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth
+xLectorMejorandola/LectorMejorandola-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile LectorMejorandola/LectorMejorandola-Prefix.pchceddda16074ab541^82fe5217074ab541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/LectorMejorandola-Prefix.pch0000000000000000^2682"ProcessPCH DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth LectorMejorandola/LectorMejorandola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ykro/code/iOS/LectorMejorandola    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1, -DCORDOVA_FRAMEWORK=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/LectorMejorandola.hmap -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/include -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources/i386 -I/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Intermediates/LectorMejorandola.build/Debug-iphonesimulator/LectorMejorandola.build/DerivedSources -F/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator -F/Users/Shared/Cordova/Frameworks -c /Users/ykro/code/iOS/LectorMejorandola/LectorMejorandola/LectorMejorandola-Prefix.pch -o /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.pth -MMD -MT dependencies -MF /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/PrecompiledHeaders/LectorMejorandola-Prefix-bxlsbxecdznidfdlpmzougiybjiq/LectorMejorandola-Prefix.pch.d36"5F278023-0371-4591-ABFD-A916E6E1EB79-
+
+CProcessPCH /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Index/PrecompiledHeaders/LectorMejorandola-Prefix-ftowseypivsfdgdxhwwzftebtzkc_ast/LectorMejorandola-Prefix.pch.pth LectorMejorandola/LectorMejorandola-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app
+s357173015.761491
+e357173015.766543
+r1
+xTouch
+x/Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Touch /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app3201c317074ab541^f33cc417074ab541^---0#0#0#--484"Touch DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app    cd /Users/ykro/code/iOS/LectorMejorandola    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/ykro/code/iOS/LectorMejorandola/DerivedData/LectorMejorandola/Build/Products/Debug-iphonesimulator/LectorMejorandola.app36"C28EB294-55F7-4315-B2A2-584203F8F457-
+

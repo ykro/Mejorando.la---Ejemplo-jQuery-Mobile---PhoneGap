@@ -1,0 +1,16 @@
+Lector de Feeds como ejemplo de jQuery Mobile y PhoneGap para iOS y Android de Mejorando.la
+
+Presentación en http://www.slideshare.net/ykro/mejorandola-introduccin-a-jquery-mobile-y-phonegap
+http://mejorando.la
+
+[Archivos incluidos]
+index.html  - Archivo con código para el lector de feeds
+loading.gif - Imagen utilizada para indicar al usuario que aún no se termina de cargar el feed
+iOS/	    - Folder con el proyecto para XCode usando PhoneGap 
+Android/    - Folder con el proyecto para Eclipse usando PhoneGap
+
+[Información de Contacto]
+Adrián Catalán
+@ykro
+
+adriancatalan[at]elementalgeeks[d0t]com
